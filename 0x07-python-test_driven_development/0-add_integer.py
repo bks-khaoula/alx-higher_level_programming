@@ -6,7 +6,7 @@ this function adds two integers
 """
 
 
-def add_integer(a, b):
+def add_integer(a, b=98):
     """Return the integer addition of a an b
     Raise: TypeError
     """
